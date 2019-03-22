@@ -1,4 +1,4 @@
-FROM partlab/ubuntu-ruby
+FROM ruby:2.3
 MAINTAINER Xavier Decuyper <hi@savjee.be>
 
 RUN gem install s3_website
