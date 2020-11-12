@@ -1,4 +1,4 @@
-FROM ruby:2.6
+FROM ruby:2.7
 MAINTAINER Xavier Decuyper <hi@savjee.be>
 
 RUN gem install s3_website
